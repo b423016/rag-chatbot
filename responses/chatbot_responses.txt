@@ -1,0 +1,8 @@
+Q: Where is the Eiffel Tower located?
+A: The Eiffel Tower is in Paris.
+
+Q: What is Python used for?
+A: Python is a popular programming language for AI and ML.
+
+Q: What is LangChain?
+A: LangChain is a library for building applications with LLMs.
